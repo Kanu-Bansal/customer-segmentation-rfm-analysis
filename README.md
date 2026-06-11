@@ -5,9 +5,9 @@ This project segments customers using **RFM (Recency, Frequency, Monetary)** ana
 on real retail transaction data and visualizes insights through a Power BI dashboard.
 
 ## 🛠️ Tools Used
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python)
+![PowerBI](https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas)
 
 ## 📊 Key Metrics
 
